@@ -9,6 +9,6 @@
     "nuxt3": "latest"
   },
   "dependencies": {
-    "@nuxt/kit-edge": "^3.0.0-27238235.a1bcc53"
+    "@nuxt/kit": "^0.6.4"
   }
 }
