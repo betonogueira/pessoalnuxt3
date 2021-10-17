@@ -8,13 +8,13 @@ const assets = {
   "/_nuxt/entry-1405c034.mjs": {
     "type": "application/javascript",
     "etag": "\"17936-+I5VETcvoOExgOJz9UOrN87ZlDo\"",
-    "mtime": "2021-10-17T16:25:44.019Z",
+    "mtime": "2021-10-17T17:45:01.106Z",
     "path": "../public/_nuxt/entry-1405c034.mjs"
   },
   "/_nuxt/manifest.json": {
     "type": "application/json",
     "etag": "\"9e-znQApB8vf/HCW9t85WKRFObjaro\"",
-    "mtime": "2021-10-17T16:25:44.019Z",
+    "mtime": "2021-10-17T17:45:01.106Z",
     "path": "../public/_nuxt/manifest.json"
   }
 };
@@ -32,7 +32,7 @@ function getAsset (id) {
 const METHODS = ["HEAD", "GET"];
 const PUBLIC_PATH = "/_nuxt/";
 const TWO_DAYS = 2 * 60 * 60 * 24;
-const STATIC_ASSETS_BASE = "C:/git/Vue/pessoalnuxt3/dist" + "/" + "1634487941";
+const STATIC_ASSETS_BASE = "C:/git/Vue/pessoalnuxt3/dist" + "/" + "1634492699";
 async function serveStatic(req, res) {
   if (!METHODS.includes(req.method)) {
     return;
