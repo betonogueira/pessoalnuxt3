@@ -5,7 +5,7 @@
     "build": "nuxt build",
     "start": "node .output/server/index.mjs"
   },
-  "dependencies": {
+  "devDependencies": {
     "nuxt3": "latest"
   }
 }
